@@ -5,6 +5,6 @@ Com o código você pode sincronizar a cada x segundos o servidor local com o re
 
 
 
-nohup while true; do git pull https://user:token@github.com/repo  --allow-unrelated-histories; date ; sleep 5; done
+nohup .\auto_git.bash
 
 *nohup é para o código continuar executando mesmo quando fechar o terminal
