@@ -7,5 +7,5 @@ With the code you can synchronize every x seconds the local server with the chos
 
 nohup .\auto_git.bash
 
-* Change user, token and repo
+* Change user, token and repo in auto_git.bash
 * nohup is for the code to continue running even when closing the terminal
