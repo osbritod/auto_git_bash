@@ -1,11 +1,11 @@
 # auto_git_bash
-Sincronizar o servidor local (linux) com seu repositório no github
+Synchronize local server (linux) with your repository on github
 
-Com o código você pode sincronizar a cada x segundos o servidor local com o repositório escolhido
+With the code you can synchronize every x seconds the local server with the chosen repository
 
 
 
 nohup .\auto_git.bash
 
-*Alterar o user, token e repo
-*nohup é para o código continuar executando mesmo quando fechar o terminal
+* Change user, token and repo
+* nohup is for the code to continue running even when closing the terminal
